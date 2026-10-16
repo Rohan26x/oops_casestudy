@@ -43,5 +43,11 @@ EOF
 ```
 
 
-## Output :
+## 4. Output :
 ![output img](output.png)
+
+## 5. Contributor
+
+| Name | Registration Number | Contribution Description |
+| :--- | :--- | :--- |
+| **Rohan Patel** | `23BDS0228` | Sole author and developer. Designed the SOLID architecture (`IWordProvider`, `IScoringPolicy`, `IUserInterface`), implemented the core multiplayer `HangmanGame` engine, `FileWordProvider`, `StandardScoringPolicy`, and `ConsoleUI`, and developed the automated test suite, interchangeable extensions (`HighStakesScoringPolicy`, `InMemoryWordProvider`, `ScriptedMockUI`), and project documentation. |
